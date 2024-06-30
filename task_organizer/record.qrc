@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>record/alltask.txt</file>
+        <file>record/personalset.txt</file>
+    </qresource>
+</RCC>
